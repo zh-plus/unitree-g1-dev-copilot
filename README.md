@@ -2,7 +2,7 @@
 
 `unitree-g1-dev-copilot` is a development skill for Unitree G1 work. It helps an AI coding assistant answer G1 questions using a local bundle of official G1 documentation instead of guessing APIs, service names, ROS2 details, or camera workflows.
 
-这个仓库提供一个面向 Unitree G1 开发的 skill，重点覆盖 G1 SDK、DDS、ROS2、服务接口查询、上层/底层运动开发，以及头部 RealSense D435i 深度相机相关问题。它的目标不是“泛泛聊天”，而是基于本地文档给出更稳、更可执行的开发建议。
+这个仓库提供一个面向 Unitree G1 开发的 skill，重点覆盖 G1 SDK、DDS、ROS2、服务接口查询、上层/底层运动开发，以及头部 RealSense D435i 深度相机相关问题。它的目标是基于官方文档给出更稳、更可执行的开发建议。
 
 ## What This Skill Does
 
